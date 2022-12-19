@@ -2,6 +2,6 @@
 Console.WriteLine("Hello, World!");
 
 string name ="Harish";
-console.writeline(name);
+console.writeline();
 
 
